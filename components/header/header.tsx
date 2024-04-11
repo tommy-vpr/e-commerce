@@ -5,8 +5,8 @@ const Header = () => {
     <header>
         <nav>
             <div className='navbar justify-between bg-base-300'>
-                <Link href='/' className='btn btn-ghost text-lg'>
-                    e-Commerce
+                <Link href='/' className='btn btn-ghost text-3xl'>
+                    LITTO
                 </Link>
                 <ul className='flex'>
                     <li>
